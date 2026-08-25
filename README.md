@@ -1,2 +1,2 @@
-# Programming-w-Python-In-Class
-This is a repository for Programming w/Python In-class assignments
+# DATA-500-In-Class
+This is a repository for DATA-500-In-Class
